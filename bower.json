@@ -1,0 +1,32 @@
+{
+  "name": "active-home-branding",
+  "homepage": "https://github.com/jackybourgeois/active-home-branding",
+  "authors": [
+    "Jacky Bourgeois <jacky.bourgeois@gmail.com>"
+  ],
+  "description": "All icons, theme and other commons for Active Home",
+  "version": "0.0.4-SNAPSHOT",
+  "main": "ah-theme.html",
+  "moduleType": [
+    "globals"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackybourgeois/active-home-branding.git"
+  },
+  "keywords": [
+    "active home",
+    "theme"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0"
+  }
+}
